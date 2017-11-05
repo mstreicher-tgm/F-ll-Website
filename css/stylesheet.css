@@ -1,0 +1,122 @@
+@font-face {
+  font-family: 'fuell';
+  src: url('../fonts/fuell.ttf') format('truetype');
+}
+
+.navlogo {
+  max-height: 45px;
+  width: auto;
+  padding-top: 10px;
+}
+
+.nav-container {
+  margin:0 auto;
+  max-width:1280px;
+  width:90%;
+}
+@media only screen and (min-width: 601px) {
+  .nav-container {
+    width:85%
+  }
+}
+@media only screen and (min-width: 993px) {
+  .nav-container {
+    width:70%
+    }
+}
+
+
+.slider .indicators .indicator-item {
+    background-color: transparent;
+    border: 2px  #e0e0e0 solid;
+    -webkit-box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3);
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3);
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: white;
+    border: 2px  white solid;
+    -webkit-box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3);
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3);
+}
+
+
+.container {
+  padding-top: 70px;
+  padding-bottom: 80px;
+}
+
+.materialboxed {
+    width: 100%;
+    height: auto;
+}
+
+.block {
+  text-align: justify;
+}
+
+.footer-container {
+  margin:0 auto;
+  max-width:1280px;
+  width:90%;
+}
+@media only screen and (min-width: 601px) {
+  .footer-container {
+    width:85%
+  }
+}
+@media only screen and (min-width: 993px) {
+  .footer-container {
+    width:70%
+    }
+}
+
+.page-footer {
+    background-color: rgba(255,0,0,1) !important;
+}
+
+nav ul li.active {
+    background-color: rgba(0,0,0,0.2);
+}
+
+@media only screen and (min-width: 1200px) {
+  .parallax-container {
+    height: 400px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .parallax-container {
+    height: 300px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .parallax-container {
+    height: 200px;
+  }
+}
+
+.icon-block .material-icons {
+    font-size: 70px;
+    color: red !important;
+}
+
+.profil {
+  width: 170px !important;
+}
+
+.msprofil {
+  width: auto;
+}
+
+.modal {
+  width: 500px !important;
+}
+@media only screen and (max-width: 500px) {
+  .modal {
+    width: auto !important;
+  }
+}
+
+.parallax img {
+  width: 100%;
+}

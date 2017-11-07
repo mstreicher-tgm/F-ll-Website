@@ -126,8 +126,8 @@ nav ul li.active {
   .left-caption {
     background-color: rgba(0,0,0,0.4) !important;
     border-radius: 10px !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
     width: auto !important;
     right: auto !important;
     left: 10% !important;
@@ -135,17 +135,17 @@ nav ul li.active {
   .center-caption {
     background-color: rgba(0,0,0,0.4) !important;
     border-radius: 10px !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
     width: auto !important;
-    right: 30% !important;
-    left: 30% !important;
+    right: 32% !important;
+    left: 32% !important;
   }
   .right-caption {
     background-color: rgba(0,0,0,0.4) !important;
     border-radius: 10px !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
     width: auto !important;
     right: 10% !important;
     left: auto !important;
@@ -155,19 +155,19 @@ nav ul li.active {
   .left-caption {
     background-color: rgba(0,0,0,0.4) !important;
     border-radius: 10px !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
   }
   .center-caption {
     background-color: rgba(0,0,0,0.4) !important;
     border-radius: 10px !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
   }
   .right-caption {
     background-color: rgba(0,0,0,0.4) !important;
     border-radius: 10px !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
   }
 }
